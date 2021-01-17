@@ -4,7 +4,7 @@ export default function Header(props) {
   return (
     <header className="block row center">
       <div>
-        <a href="#/">
+        
         <div className="one">
                 <div className="cntrdiv">
                     <ul>
@@ -18,7 +18,7 @@ export default function Header(props) {
                     </ul>
                 </div>
           </div>
-        </a>
+        
       </div>
       <div>
         <a href="#/cart">
